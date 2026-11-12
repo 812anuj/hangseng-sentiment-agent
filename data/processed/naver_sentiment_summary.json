@@ -1,0 +1,67 @@
+[
+    {
+        "ticker": "005930",
+        "company": "Samsung Electronics",
+        "exchange": "South Korea",
+        "source": "Naver Finance",
+        "total_posts": 20,
+        "positive": 1,
+        "negative": 1,
+        "neutral": 18,
+        "average_sentiment_score": 0.0,
+        "total_likes": 23,
+        "total_views": 260
+    },
+    {
+        "ticker": "000660",
+        "company": "SK Hynix",
+        "exchange": "South Korea",
+        "source": "Naver Finance",
+        "total_posts": 20,
+        "positive": 0,
+        "negative": 2,
+        "neutral": 18,
+        "average_sentiment_score": -0.0728,
+        "total_likes": 68,
+        "total_views": 860
+    },
+    {
+        "ticker": "035420",
+        "company": "NAVER",
+        "exchange": "South Korea",
+        "source": "Naver Finance",
+        "total_posts": 20,
+        "positive": 2,
+        "negative": 2,
+        "neutral": 16,
+        "average_sentiment_score": -0.0056,
+        "total_likes": 79,
+        "total_views": 956
+    },
+    {
+        "ticker": "035720",
+        "company": "Kakao",
+        "exchange": "South Korea",
+        "source": "Naver Finance",
+        "total_posts": 20,
+        "positive": 0,
+        "negative": 3,
+        "neutral": 17,
+        "average_sentiment_score": -0.1336,
+        "total_likes": 73,
+        "total_views": 280
+    },
+    {
+        "ticker": "005380",
+        "company": "Hyundai Motor",
+        "exchange": "South Korea",
+        "source": "Naver Finance",
+        "total_posts": 20,
+        "positive": 2,
+        "negative": 5,
+        "neutral": 13,
+        "average_sentiment_score": -0.0992,
+        "total_likes": 25,
+        "total_views": 359
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "ticker": "0005.HK",
+        "company": "HSBC",
+        "exchange": "Hong Kong",
+        "total_articles": 5,
+        "analysed_articles": 5,
+        "skipped_articles": 0,
+        "positive_count": 3,
+        "negative_count": 1,
+        "neutral_count": 1,
+        "average_sentiment_score": 0.3532
+    },
+    {
+        "ticker": "000660.KS",
+        "company": "SK Hynix",
+        "exchange": "South Korea",
+        "total_articles": 2,
+        "analysed_articles": 2,
+        "skipped_articles": 0,
+        "positive_count": 1,
+        "negative_count": 1,
+        "neutral_count": 0,
+        "average_sentiment_score": 0.0143
+    },
+    {
+        "ticker": "005380.KS",
+        "company": "Hyundai Motor",
+        "exchange": "South Korea",
+        "total_articles": 5,
+        "analysed_articles": 4,
+        "skipped_articles": 1,
+        "positive_count": 1,
+        "negative_count": 3,
+        "neutral_count": 0,
+        "average_sentiment_score": -0.2619
+    },
+    {
+        "ticker": "005930.KS",
+        "company": "Samsung Electronics",
+        "exchange": "South Korea",
+        "total_articles": 5,
+        "analysed_articles": 4,
+        "skipped_articles": 1,
+        "positive_count": 2,
+        "negative_count": 2,
+        "neutral_count": 0,
+        "average_sentiment_score": 0.1503
+    },
+    {
+        "ticker": "035420.KS",
+        "company": "NAVER",
+        "exchange": "South Korea",
+        "total_articles": 5,
+        "analysed_articles": 2,
+        "skipped_articles": 3,
+        "positive_count": 1,
+        "negative_count": 1,
+        "neutral_count": 0,
+        "average_sentiment_score": 0.1658
+    },
+    {
+        "ticker": "035720.KS",
+        "company": "Kakao",
+        "exchange": "South Korea",
+        "total_articles": 5,
+        "analysed_articles": 4,
+        "skipped_articles": 1,
+        "positive_count": 4,
+        "negative_count": 0,
+        "neutral_count": 0,
+        "average_sentiment_score": 0.7785
+    },
+    {
+        "ticker": "0700.HK",
+        "company": "Tencent",
+        "exchange": "Hong Kong",
+        "total_articles": 5,
+        "analysed_articles": 5,
+        "skipped_articles": 0,
+        "positive_count": 2,
+        "negative_count": 3,
+        "neutral_count": 0,
+        "average_sentiment_score": -0.1091
+    },
+    {
+        "ticker": "1299.HK",
+        "company": "AIA Group",
+        "exchange": "Hong Kong",
+        "total_articles": 5,
+        "analysed_articles": 5,
+        "skipped_articles": 0,
+        "positive_count": 3,
+        "negative_count": 2,
+        "neutral_count": 0,
+        "average_sentiment_score": 0.2444
+    },
+    {
+        "ticker": "3690.HK",
+        "company": "Meituan",
+        "exchange": "Hong Kong",
+        "total_articles": 5,
+        "analysed_articles": 5,
+        "skipped_articles": 0,
+        "positive_count": 1,
+        "negative_count": 2,
+        "neutral_count": 2,
+        "average_sentiment_score": -0.128
+    },
+    {
+        "ticker": "9988.HK",
+        "company": "Alibaba",
+        "exchange": "Hong Kong",
+        "total_articles": 5,
+        "analysed_articles": 5,
+        "skipped_articles": 0,
+        "positive_count": 3,
+        "negative_count": 2,
+        "neutral_count": 0,
+        "average_sentiment_score": 0.229
+    }
+]

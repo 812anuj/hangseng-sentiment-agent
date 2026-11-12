@@ -1,0 +1,14 @@
+pandas
+numpy
+python-dotenv
+pydantic-settings
+requests
+yfinance
+pytest
+exa-py
+apify-client
+matplotlib
+scikit-learn
+transformers
+torch
+langdetect

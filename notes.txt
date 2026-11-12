@@ -1,0 +1,42 @@
+We are separating responsibilities:
+    - ingestion: collects social media, news and prices.
+    - sentiment: analyzes positive and negative opinions.
+    - prediction: trains our machine learning model.
+    - reporting: generates the visual dashboard.
+    - config: stores project configuration.
+    - tests: checks whether our modules work correct
+
+> python -c "import pandas as pd; df = pd.read_csv('data/raw/stock_prices/0700.HK.csv'); print(df.head()); print(df.columns.tolist()); print(df.isnull().sum())"
+
+
+data ingestion → normalization → validation → cleaning.
+
+
+first complete LIHKG data-ingestion workflow is working.
+    1. Collected real LIHKG discussions using Apify.
+    2. Exported the data as JSON.
+    3. Loaded JSON into Python.
+    4. Identified threads and replies.
+    5. Normalized different record structures.
+    6. Detected missing text.
+    7. Removed the empty record from the processed dataset.
+    8. Saved 23 cleaned records.
+Search mode vs thread mode
+    Mode	What it gives us
+    search	Finds discussions and gives us their titles and metadata
+    thread	Opens a discussion and collects its actual text and replies
+
+
+pip install apify-client
+pip install exa-pyx
+pip install torch --index-url https://download.pytorch.org/whl/cpu
+pip install transformers
+pip install accelerate
+pip install langdetect
+python -m pip install scikit-learn
+
+New-Item -ItemType Directory -Force app\reporting
+New-Item -ItemType File -Force app\reporting\generate_report.py
+
+
+   

@@ -1,0 +1,12 @@
+{
+    "source": "LIHKG",
+    "exchange": "Hong Kong",
+    "asset_scope": "market",
+    "total_records": 58,
+    "analysed_records": 57,
+    "skipped_records": 1,
+    "positive": 8,
+    "negative": 13,
+    "neutral": 36,
+    "average_sentiment_score": -0.0905
+}
