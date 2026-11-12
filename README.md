@@ -86,7 +86,7 @@ Note: LIHKG sentiment represents overall Hong Kong market discussion and is not 
 Clone the repository:
 
     ```bash
-    git clone YOUR_GITHUB_REPOSITORY_URL
+    git clone https://github.com/812anuj/hangseng-sentiment-agent.git
     cd hangseng-sentiment-agent
     ```
 
